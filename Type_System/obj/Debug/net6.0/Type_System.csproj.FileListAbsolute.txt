@@ -1,0 +1,15 @@
+D:\Dot Net Practice\Type_System\bin\Debug\net6.0\Type_System.exe
+D:\Dot Net Practice\Type_System\bin\Debug\net6.0\Type_System.deps.json
+D:\Dot Net Practice\Type_System\bin\Debug\net6.0\Type_System.runtimeconfig.json
+D:\Dot Net Practice\Type_System\bin\Debug\net6.0\Type_System.dll
+D:\Dot Net Practice\Type_System\bin\Debug\net6.0\Type_System.pdb
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.csproj.AssemblyReference.cache
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.AssemblyInfoInputs.cache
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.AssemblyInfo.cs
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.csproj.CoreCompileInputs.cache
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.dll
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\refint\Type_System.dll
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.pdb
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\Type_System.genruntimeconfig.cache
+D:\Dot Net Practice\Type_System\obj\Debug\net6.0\ref\Type_System.dll
