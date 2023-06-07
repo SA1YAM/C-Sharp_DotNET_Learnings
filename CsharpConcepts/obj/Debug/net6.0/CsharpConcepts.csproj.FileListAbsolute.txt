@@ -1,0 +1,15 @@
+D:\Dot Net Practice\CsharpConcepts\bin\Debug\net6.0\CsharpConcepts.exe
+D:\Dot Net Practice\CsharpConcepts\bin\Debug\net6.0\CsharpConcepts.deps.json
+D:\Dot Net Practice\CsharpConcepts\bin\Debug\net6.0\CsharpConcepts.runtimeconfig.json
+D:\Dot Net Practice\CsharpConcepts\bin\Debug\net6.0\CsharpConcepts.dll
+D:\Dot Net Practice\CsharpConcepts\bin\Debug\net6.0\CsharpConcepts.pdb
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.csproj.AssemblyReference.cache
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.AssemblyInfoInputs.cache
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.AssemblyInfo.cs
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.csproj.CoreCompileInputs.cache
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.dll
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\refint\CsharpConcepts.dll
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.pdb
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\CsharpConcepts.genruntimeconfig.cache
+D:\Dot Net Practice\CsharpConcepts\obj\Debug\net6.0\ref\CsharpConcepts.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CsharpConcepts/1.0.0": {
+        "runtime": {
+          "CsharpConcepts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpConcepts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

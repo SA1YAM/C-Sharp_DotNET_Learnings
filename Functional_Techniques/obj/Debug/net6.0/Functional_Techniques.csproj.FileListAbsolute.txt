@@ -1,0 +1,15 @@
+D:\Dot Net Practice\Functional_Techniques\bin\Debug\net6.0\Functional_Techniques.exe
+D:\Dot Net Practice\Functional_Techniques\bin\Debug\net6.0\Functional_Techniques.deps.json
+D:\Dot Net Practice\Functional_Techniques\bin\Debug\net6.0\Functional_Techniques.runtimeconfig.json
+D:\Dot Net Practice\Functional_Techniques\bin\Debug\net6.0\Functional_Techniques.dll
+D:\Dot Net Practice\Functional_Techniques\bin\Debug\net6.0\Functional_Techniques.pdb
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.csproj.AssemblyReference.cache
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.AssemblyInfoInputs.cache
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.AssemblyInfo.cs
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.csproj.CoreCompileInputs.cache
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.dll
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\refint\Functional_Techniques.dll
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.pdb
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\Functional_Techniques.genruntimeconfig.cache
+D:\Dot Net Practice\Functional_Techniques\obj\Debug\net6.0\ref\Functional_Techniques.dll

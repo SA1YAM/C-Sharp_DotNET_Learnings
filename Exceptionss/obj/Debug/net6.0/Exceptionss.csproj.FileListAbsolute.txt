@@ -1,0 +1,15 @@
+D:\Dot Net Practice\Exceptionss\bin\Debug\net6.0\Exceptionss.exe
+D:\Dot Net Practice\Exceptionss\bin\Debug\net6.0\Exceptionss.deps.json
+D:\Dot Net Practice\Exceptionss\bin\Debug\net6.0\Exceptionss.runtimeconfig.json
+D:\Dot Net Practice\Exceptionss\bin\Debug\net6.0\Exceptionss.dll
+D:\Dot Net Practice\Exceptionss\bin\Debug\net6.0\Exceptionss.pdb
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.csproj.AssemblyReference.cache
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.AssemblyInfoInputs.cache
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.AssemblyInfo.cs
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.csproj.CoreCompileInputs.cache
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.dll
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\refint\Exceptionss.dll
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.pdb
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\Exceptionss.genruntimeconfig.cache
+D:\Dot Net Practice\Exceptionss\obj\Debug\net6.0\ref\Exceptionss.dll
